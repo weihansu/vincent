@@ -20,10 +20,10 @@
 	            	<div class="wrap-inner">
 				        <?php
 				        // Get Header logo
-				        // get_template_part( 'templates/header-logo' );
+				        get_template_part( 'templates/header-logo' );
 
 				        // Get Header aside
-				        // get_template_part( 'templates/header-menu' ); ?>
+				        get_template_part( 'templates/header-menu' ); ?>
 			        </div>
 	            </div><!-- /#site-header-inner -->
 			</header><!-- /#site-header -->
